@@ -1,6 +1,5 @@
 [emergency-911-calls-project.pdf](https://github.com/Artimis0016/911-Project/files/6191838/emergency-911-calls-project.pdf)
 # 911-Project
-For this project will be analyzing some 911 call data from Kaggle.
 The data contains the following fields:
 
 lat : String variable, Latitude
@@ -15,7 +14,7 @@ e: String variable, Dummy variable (always 1)
 
 
 Evaluation:
-During the notebook try to answer the following questions:
+During the notebook tried to answer the following questions:
 
 Which features are available in the dataset?
 How many rows and columns does the dataset have?
